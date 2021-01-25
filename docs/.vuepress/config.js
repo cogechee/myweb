@@ -1,4 +1,4 @@
 module.exports = {
   locales: { '/': { lang: 'ja' } },
-  title: 'COGECHEE',
+  title: 'COGECHEE.CF',
 }
