@@ -5,7 +5,7 @@
 
 "Hi, I am Cogechee, a mascot of [OCOGE](https://ocoge.club)."
 
-[Repository](https://github.com/ocogeclub/cogechee)
+[Repository](https://github.com/cogechee/myweb)
 
 Powered by: [GitHub](https://github.com/) [Netlify](https://www.netlify.com/) [Freenom](https://www.freenom.com/)
 
