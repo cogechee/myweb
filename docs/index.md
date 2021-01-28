@@ -1,9 +1,13 @@
 # COGECHEE'S
 ## Self-Introduction
 
-![cogechee](cogechee.png)<br>
+![cogechee](cogechee_720.png)<br>
 
 "Hi, I am Cogechee, a mascot of [OCOGE](https://ocoge.club)."
+
+[Repository](https://github.com/ocogeclub/cogechee)
+
+Powered by: [GitHub](https://github.com/) [Netlify](https://www.netlify.com/) [Freenom](https://www.freenom.com/)
 
 ---
 
