@@ -4,7 +4,6 @@
 ![cogechee](cogechee_720.png)<br>
 
 "Hi, I am Cogechee, a mascot of [OCOGE](https://ocoge.club)."
-"This is test commit."
 
 [Repository](https://github.com/cogechee/myweb)
 
